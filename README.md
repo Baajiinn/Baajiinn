@@ -3,7 +3,7 @@
 </a>
 <h3 align="center">A Computer Science passionate of Cybersecurity</h3>
 <h4 align="center">
-  My main fields of study are **Cybersecurity**, **Networks**, and **Telecommunications**.
+  My main fields of study are Cybersecurity, Networks, and Telecommunications.
 </h4>
 <h5>
  
