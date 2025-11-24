@@ -6,9 +6,8 @@
   My main fields of study are **Cybersecurity**, **Networks**, and **Telecommunications**.
 </h4>
 <h5>
-- 🌱 I’m currently learning **Pentesting** aside my studies.
-
-- 📫 How to reach me **lubanguku.esd@gmail.com**
+  - 🌱 I’m currently learning **Pentesting** aside my studies.
+  - 📫 How to reach me **lubanguku.esd@gmail.com**
 </h5>
 
 
