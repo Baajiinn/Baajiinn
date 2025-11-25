@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF585E&center=false&vCenter=true&width=435&lines=Hi%2C+I'm+Esdras+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
-<h3 align="center">A Computer Science passionate of Cybersecurity</h3>
+<h3 align="center">A Computer Science Student raising in Cybersecurity</h3>
 <h4 align="center">
   My main fields of study are Cybersecurity, Networks, and Telecommunications.
 </h4>
