@@ -1,3 +1,8 @@
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF585E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Esdras+%F0%9F%91%8B" alt="Typing SVG" />
@@ -57,5 +62,4 @@
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
   <a href="https://www.ansible.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> </a>
   <a href="https://octopus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/> </a>
-  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="cisco" width="40" height="40"/> </a>
 </p>
